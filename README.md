@@ -1,7 +1,7 @@
 # Lumen
 
 ## Project Description
-Lumen is an project that will load obj and gltf scenes into a scenehiearchy and enable the user to view the geometry and materials within an interactive window.  The user will be able to manipulate the camera as well as the lights in the scene.
+Lumen is a project that will load obj and gltf scenes into a scenehiearchy and enable the user to view the geometry and materials within an interactive window.  The user will be able to manipulate the camera as well as the lights in the scene.
 
 ## Project dependencies
 
